@@ -1,4 +1,4 @@
-# Hometasks of course "Natural language processing" in MIPT
+# Home tasks from the course "Natural language processing" in MIPT
 
 - [Word2vec](https://github.com/Jesaig/nlp-course-mipt/tree/main/bert-classification)  
 Implementation of the word2vec algorithm ([cs224n assigment](https://web.stanford.edu/class/cs224n/assignments/a2.pdf))
